@@ -32,6 +32,5 @@ module SFtp
         yield(sftp)
       end
     end
-
   end
 end
